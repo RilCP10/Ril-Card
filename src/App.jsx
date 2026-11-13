@@ -88,7 +88,7 @@ const PROFILE = {
   name: 'Aril',
   tagline: 'A little world of anime, games, music, sport & me.',
   about:
-    '"Hello, Aril here... or you can call me Ril! He/Him pronouns, 22+. I love yapping, especially about anime, WuWa, Chelsea, F1, MLBB, and my daily life..."',
+    '"Hello, Aril here... or you can call me Ril! He/Him pronouns, 22. I love yapping, especially about anime, WuWa, Chelsea, F1, MLBB, and my daily life..."',
 }
 
 const FAVORITES = {
@@ -129,7 +129,7 @@ const FAVORITES = {
       { src: 'foto/cp2.jpg', caption: 'kato megumi x aki tomoya' },
       { src: 'foto/cp3.jpg', caption: 'yamada x nishi' },
       { src: 'foto/cp4.jpg', caption: 'david x lucy' },
-      { src: 'foto/cp5.jpg', caption: 'mai sakurajima x sakuta' },
+      { src: 'foto/cp6.jpg', caption: 'frieren x himmel' },
     ],
   },
 }
