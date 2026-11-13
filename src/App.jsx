@@ -283,7 +283,7 @@ const toggleMusic = () => {
       />
       <div className="about-text right">
         <h3>Basic DNI</h3>
-        <p>Zionist, -17, 02 Voters, Problematic, Racist, Pedophilia</p>
+        <p>Zionist, -17, 02 Voters, Problematic, Racist, Pedophilia, hates my fav, and any basic criteria dni</p>
       </div>
     </div>
   </Section>
